@@ -7,7 +7,7 @@
           "type": "slide",
           "settings": {
             "img_mobile": "shopify:\/\/shop_images\/Progetto_senza_titolo_3.png",
-            "img_mobile_height": 200,
+            "img_mobile_height": 400,
             "img_mobile_opacity": 0.7,
             "img_desktop": "shopify:\/\/shop_images\/Progetto_senza_titolo_3.png",
             "img_desktop_height": 390,
@@ -276,6 +276,7 @@
       "settings": {
         "bg_color": "bg-light text-body",
         "text_align": "text-start",
+        "image": "shopify:\/\/shop_images\/Progetto_senza_titolo_2.png",
         "img_orientation": "landscape-x2",
         "img_crop": "center",
         "img_border": "img-thumbnail",
