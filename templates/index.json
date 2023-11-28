@@ -57,14 +57,10 @@
       "type": "featured-products",
       "settings": {
         "products": [
-          "bag-series-1",
-          "glasses-series-3",
-          "heat-series-2",
-          "lamp-series-2",
-          "watch-series-1",
-          "bag-series-3",
-          "lamp-series-1",
-          "glasses-series-2"
+          "coppia-teste",
+          "coppia-teste-in-oro-zecchino",
+          "coppia-teste-limoni",
+          "coppia-teste-melograno"
         ],
         "bg_color": "",
         "text_align": "text-center",
